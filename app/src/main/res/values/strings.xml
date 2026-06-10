@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SoulMate AI</string>
+    <string name="timeline_modal_title">Relationship Timeline &amp; Breakthroughs</string>
+    <string name="timeline_modal_subtitle">Scroll through past memories and emotional landmarks with your virtual soulmate.</string>
+    <string name="record_breakthrough_button">Record Breakthrough Memory</string>
+    <string name="custom_event_title_label">Breakthrough Event Title</string>
+    <string name="custom_event_desc_label">Brief Description / Memory Details</string>
+    <string name="save_landmark_button">Secure in Timeline</string>
+    <string name="no_landmarks_yet">No timeline landmarks captured yet. Form memories directly or add custom emotional breakthroughs below!</string>
+    <string name="badges_section_title">BONDING ACHIEVEMENTS &amp; BADGES</string>
+    <string name="badges_section_subtitle">Collect unique badges to celebrate your deepening companionship matrix.</string>
+    <string name="badge_unlocked_toast">Achievement Unlocked: %1$s! Excellent emotional syncing! 🎉</string>
+    <string name="badge_locked_toast">Achievement Locked: %1$s. Requirement: %2$s</string>
+    <string name="claim_badge_xp">Claim Achievements XP Reward</string>
+    <string name="no_unclaimed_xp">All achieved badge rewards claimed! Keep communicating to grow further. ⭐</string>
+    <string name="badge_claimed_success">Companion matrix rewarded with +15 XP! ✨</string>
+</resources>

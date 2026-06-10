@@ -1,0 +1,6 @@
+{
+  "name": "SoulMate AI",
+  "description": "Your deeply empathetic, intelligent, human-like AI companion that remembers, supports, and grows with you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
